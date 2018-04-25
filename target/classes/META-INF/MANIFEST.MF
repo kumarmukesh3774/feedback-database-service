@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: feedback-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sapient
+Implementation-Vendor-Id: com.offershopper
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/feedbackdatabaseservice
+Created-By: Maven Integration for Eclipse
+
